@@ -67,5 +67,5 @@ O pipeline de aprendizado supervisionado inclui:
 
 ## 📜 Licença
 
-Distribuído sob a licença [MIT](LICENSE).  
+Distribuído sob a licença [MIT].  
 Uso livre para fins acadêmicos e pessoais.
