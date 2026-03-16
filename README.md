@@ -34,7 +34,7 @@ O pipeline de aprendizado supervisionado inclui:
 ## 🛠️ Modelos Utilizados
 
 - **Random Forest**
-- **KMeans
+- **KMeans**
 
 ---
 
